@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useRef } from 'react';
-import Image from 'next/image';
+import Image from 'C:\Users\Sonu\Documents\Portfolio\portfolio_site\public\img.jpg';
 import { motion, useInView } from 'framer-motion';
 
 const About = () => {
